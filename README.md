@@ -13,6 +13,9 @@ CSV files
 - microsoft excel file...
 
 ## Process and Experimentation
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/4cec0121-f56f-4aca-9f08-dbea0d3b9d3d" /><br>
+for this workshop task, I made my own chart form excel and made it as a csv file. 
+
 
 ## Problem Solving & Code
 
