@@ -18,7 +18,10 @@ for this workshop task, I made my own chart form excel and made it as a csv file
 <br>
 https://p5js.org/reference/p5/p5.Table/ <br>
 <br>
-<img width="931" alt="image" src="https://github.com/user-attachments/assets/b90d8eec-94c5-4695-85ce-1eff8f9ce444" />
+<img width="931" alt="image" src="https://github.com/user-attachments/assets/b90d8eec-94c5-4695-85ce-1eff8f9ce444" /><br>
+<br>
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/a62ad521-99a5-4604-942e-efa679f249f4" />
+
 
 
 ## Problem Solving & Code
