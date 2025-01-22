@@ -22,4 +22,6 @@ https://p5js.org/reference/p5/p5.Table/ <br>
 
 ## Problem Solving & Code
 
+https://p5js.org/reference/p5.Table/getRowCount/
+
 ## Future Development
