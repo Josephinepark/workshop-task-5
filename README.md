@@ -14,7 +14,10 @@ CSV files
 
 ## Process and Experimentation
 <img width="484" alt="image" src="https://github.com/user-attachments/assets/4cec0121-f56f-4aca-9f08-dbea0d3b9d3d" /><br>
-for this workshop task, I made my own chart form excel and made it as a csv file. 
+for this workshop task, I made my own chart form excel and made it as a csv file. <br>
+<br>
+https://p5js.org/reference/p5/p5.Table/ <br>
+<br>
 
 
 ## Problem Solving & Code
