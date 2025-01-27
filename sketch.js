@@ -27,7 +27,7 @@ function setup() {
   selectMenu.option('water');
 }
 
-function allMyFruit() {
+/*function allMyFruit() {
   let xpos =30;
   for (x=0; x<table.getRowCount(); x++) {
     let row = table.getRow(x);
@@ -40,6 +40,7 @@ function allMyFruit() {
     }
   }
   }
+  */
 
 function weekLabels(){
   for (let x = 0; x < table.getRowCount(); x++){
